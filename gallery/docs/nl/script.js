@@ -1149,7 +1149,7 @@ doc_toc += '                  <li><a href="dev_package.htm#packaging_steps_versi
 doc_toc += '                  <li><a href="dev_package.htm#packaging_steps_versioncheck_update" class="en" class="en" class="en">Update revision numbers and hashes</a></li>\n';
 doc_toc += '                </ul>\n';
 doc_toc += '              </li>\n';
-doc_toc += '              <li><a href="dev_package.htm#packaging_steps_xml_webspace" class="en" class="en" class="en">Update cpg15x.files.xml on the Coppermine home page</a></li>\n';
+doc_toc += '              <li><a href="dev_package.htm#packaging_steps_xml_webspace" class="en" class="en" class="en">Update gallery.files.xml on the Coppermine home page</a></li>\n';
 doc_toc += '              <li><a href="dev_package.htm#packaging_steps_svn_export" class="en" class="en" class="en">Export from subversion</a>\n';
 doc_toc += '                <ul>\n';
 doc_toc += '                  <li><a href="dev_package.htm#packaging_steps_rapidsvn" class="en" class="en" class="en">RapidSVN</a></li>\n';

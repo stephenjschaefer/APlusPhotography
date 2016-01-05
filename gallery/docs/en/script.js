@@ -1207,7 +1207,7 @@ doc_toc += '              </li>\n';
 doc_toc += '              <li><a href="dev_package.htm#packaging_steps_create_zip">Create the archive</a></li>\n';
 doc_toc += '              <li><a href="dev_package.htm#packaging_steps_upload_zip">Upload the archive</a></li>\n';
 doc_toc += '              <li><a href="dev_package.htm#packaging_steps_move_announcement">Publish announcement thread</a></li>\n';
-doc_toc += '              <li><a href="dev_package.htm#packaging_steps_xml_webspace">Update cpg15x.files.xml on the Coppermine home page</a></li>\n';
+doc_toc += '              <li><a href="dev_package.htm#packaging_steps_xml_webspace">Update gallery.files.xml on the Coppermine home page</a></li>\n';
 doc_toc += '              <li><a href="dev_package.htm#packaging_steps_download_button">Update the download button on the Coppermine home page</a></li>\n';
 doc_toc += '              <li><a href="dev_package.htm#packaging_steps_news">Create news items</a>\n';
 doc_toc += '                <ul>\n';
